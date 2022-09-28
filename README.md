@@ -14,6 +14,7 @@ In This Project, most of the necessary data was provided by udacity, however not
 
 # Table of Contents
 - `wrangle_act.ipynb:` the Jupyter Notebook version for the cleaning and merging of the dataset.
+- `wrangle_report.pdf`: the summary of all the wrangling steps.
 - `act_report.ipynb:` the Jupyter Notebook version for analysis and visualization.
 - `act_report.html:` the HTML version of act_report.ipynb
 - `Dataset:` the folder containing all the datasets used for this report
