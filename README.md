@@ -13,12 +13,11 @@ In This Project, most of the necessary data was provided by udacity, however not
 - Does an increase in the text length lead to an increase in the favorite count?
 
 # Table of Contents
-- `wrangle_act.ipynb:` the Jupyter Notebook version for the cleaning and merging of the dataset.
+- `HTML Notebooks:` the HTML Notebook version of the analysis.
+- `Jupyter Notebooks:` the Jupyter Notebook version of the analysis.
 - `wrangle_report.pdf`: the summary of all the wrangling steps.
-- `act_report.ipynb:` the Jupyter Notebook version for analysis and visualization.
-- `act_report.html:` the HTML version of act_report.ipynb
-- `Dataset:` the folder containing all the datasets used for this report
-- `Requirements.txt`: the required python libraries
+- `Datasets:` the folder containing the dataset used.
+- `Requirements.txt`: the required python libraries.
 
 # Installation and Configuration
 Download Anaconda at https://www.anaconda.com/download/ and install the libraries in the requirement.txt file using PIP
